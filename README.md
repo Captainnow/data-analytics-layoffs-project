@@ -83,6 +83,8 @@ For recruiters and hiring managers, this project shows that you can:
 You can reference this project in your resume as:
 
 > “Built an Excel analytics dashboard on global tech layoffs, aggregating 2K+ events by year, industry, and funding stage, and presenting recruiter‑friendly KPIs and charts.”
+> <img width="899" height="552" alt="image" src="https://github.com/user-attachments/assets/da78ef47-ab2e-4f8b-b05d-8933bc3f378d" />
+
 
 ---
 
